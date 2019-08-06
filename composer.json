@@ -1,0 +1,12 @@
+{
+  "name": "lenniDespero/dijkstra-explorer",
+  "description": "",
+  "require": {
+    "php": ">=7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Dijkstra\\": "src/Dijkstra"
+    }
+  }
+}
